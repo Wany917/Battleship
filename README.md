@@ -1,4 +1,4 @@
-# Battlship# **Bataille navale**
+# Battlship **Bataille navale**
 
 Le jeu de bataille navale est un jeu de stratégie consistant à couler les navires adverses avant qu'ils ne coulent les tiens. Ce projet implémente une version en ligne de ce jeu classique.
 
