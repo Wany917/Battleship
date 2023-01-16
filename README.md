@@ -1,4 +1,4 @@
-# Battlship **Battle ship**
+# Battlship
 
 Battleship is a strategy game about sinking opposing ships before they sink yours.
 
