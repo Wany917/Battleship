@@ -1,38 +1,40 @@
-# Battlship **Bataille navale**
+# Battlship **Battle ship**
 
-Le jeu de bataille navale est un jeu de stratégie consistant à couler les navires adverses avant qu'ils ne coulent les tiens. Ce projet implémente une version en ligne de ce jeu classique.
+Battleship is a strategy game about sinking opposing ships before they sink yours.
 
-## Prérequis
+This project implements an online version of this classic game.
 
-Pour jouer à ce jeu, vous aurez besoin de :
+## Conditions
 
-    + Un ordinateur exécutant Go et capable de se connecter à Internet
-    + Un terminal ou un émulateur de terminal
+To play this game, you will need :
+
+    + A computer running Go and able to connect to the Internet
+    + A terminal or terminal emulator
 
 ## Installation
 
-Pour installer ce jeu sur votre ordinateur, suivez ces étapes :
+To install this game on your computer, follow these steps:
 
-    + Téléchargez ou clonez ce dépôt sur votre ordinateur
-    + Ouvrez un terminal et naviguez jusqu'au répertoire du jeu
-    + Tapez la commande make pour compiler le code source
-    + Tapez la commande ./battleship pour lancer le jeu
+    + Download or clone this repository to your computer
+    + Open a terminal and navigate to the game directory
+    + Type the make command to compile the source code
+    + Type the command ./battleship to launch the game
 
-## Utilisation
+## Usage
 
-Pour jouer à ce jeu, vous devrez d'abord créer un compte en entrant votre nom d'utilisateur et le programme vous renvoie votre adresse IP qui vous pouvez partager avec votre adversaire pour pouvoir jouer ensemble.
+To play this game, you will first need to create an account by entering your username and the program will return your IP address which you can share with your opponent to play together.
 
-Une fois que votre compte créé, vous pouvez commencer à jouer en suivant les instructions affichées à l'écran. Vous devrez entrer les coordonnées de votre attaque sous la forme A5, D9, etc.
+Once your account is created, you can start playing by following the instructions on the screen. You will need to enter the coordinates of your attack in the form of A5, D9, etc.
 
 
-## Fonctionnalités
+## Features
 
-Voici les fonctionnalités principales de ce jeu :
+Here are the main features of this game:
 
-    + Création de compte
-    + Placement de navires aléatoires
-    + Mouvement des Bateaux
-    + Attaque de navires adverses
-    + Vérification de l'état des navires (coulé ou non)
-    + Possibilité de jouer de la musique en arrière-plan
-    + Affichage de la carte de jeu
+    + Account creation
+    + Placement of random ships
+    + Movement of ships
+    + Attacking opposing ships
+    + Checking the status of ships (sunk or not)
+    + Ability to play music in the background
+    + Display the game map
